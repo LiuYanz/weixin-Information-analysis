@@ -27,14 +27,11 @@
 
 
 ## 以下来自不同微信号的分析图，感谢微信号的提供者！
-### 微信好友区域分布图
-weixin-Information-analysis/img/微信好友区域分布图.png
-### 省份分布柱状图
-weixin-Information-analysis/img/省份分布柱状图.png
-### 微信好友签名词云图
-weixin-Information-analysis/img/微信好友签名词云图.png
-性别比例图
-### weixin-Information-analysis/img/性别比例图.png
+
+![微信好友区域分布图](https://github.com/LiuYanz/weixin-Information-analysis/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E5%8C%BA%E5%9F%9F%E5%88%86%E5%B8%83%E5%9B%BE.png)
+![省份分布柱状图](https://github.com/LiuYanz/weixin-Information-analysis/blob/master/img/省份分布柱状图.png)
+![微信好友签名词云图](https://github.com/LiuYanz/weixin-Information-analysis/blob/master/img/微信好友签名词云图.png)
+![性别比例图](https://github.com/LiuYanz/weixin-Information-analysis/blob/master/img/性别比例图.png)
 
 
 
