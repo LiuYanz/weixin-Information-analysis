@@ -26,8 +26,15 @@
 #### 特别注明，中国地图在 echarts-countries-pypkg 里。
 
 
-
-
+## 以下来自不同微信号的分析图，感谢微信号的提供者！
+### 微信好友区域分布图
+weixin-Information-analysis/img/微信好友区域分布图.png
+### 省份分布柱状图
+weixin-Information-analysis/img/省份分布柱状图.png
+### 微信好友签名词云图
+weixin-Information-analysis/img/微信好友签名词云图.png
+性别比例图
+### weixin-Information-analysis/img/性别比例图.png
 
 
 
